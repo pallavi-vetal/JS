@@ -1,0 +1,30 @@
+    - var a = 5;  //Creates a variable named a
+    - Types:
+      1. Number
+          - Uses 64 bits to store number value
+          - Special Numbers: Infinity and -Infinity, NaN
+      2. String 
+          - `String`, "String", 'String'
+          - Concat = "Con"+"cat"
+   - Operators :
+        - typeof
+        - Logical Operators && || 
+        - Automatic Type Conversion
+        console.log(8 * null)
+        // → 0
+        console.log("5" - 1)
+        // → 4
+        console.log("5" + 1)
+        // → 51
+        console.log("five" * 2)
+        // → NaN
+        console.log(false == 0)
+        // → true+++++
+        console.log(null == undefined);
+        // → true
+        console.log(null == 0);
+        // → false
+        console.log(null || "user")   //null = 0 = false, false || true -> True
+        // → user
+        console.log("Agnes" || "user") 
+        // → Agnes

@@ -1,4 +1,4 @@
 # JS
 
-Created to apply learning of JavaScript
+Created to apply learnings of JavaScript
 https://psv-workspace.herokuapp.com/
